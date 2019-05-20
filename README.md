@@ -1,2 +1,11 @@
 # HJOL-Script
-CMD Script for Hongjingol.
+# 欢迎呱呱呱
+
+
+
+目前就写了四个好用的脚本：
+
+* 自动挖矿
+* 铁血刷分
+* 无限侦查
+* 缓慢爬地图
